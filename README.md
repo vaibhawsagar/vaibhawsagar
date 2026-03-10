@@ -108,11 +108,25 @@ int main() {
 </p>
 
 ---
-# 📈 Most Used Languages
+# 📈 Core Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaibhawsagar&layout=compact&theme=tokyonight"/>
+C++
+
+<img src="https://img.shields.io/badge/████████████████████-90%25-00599C?style=for-the-badge"/>
+
+<br><br>
+
+JavaScript
+
+<img src="https://img.shields.io/badge/██████████████████--85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+React
+
+<img src="https://img.shields.io/badge/████████████████----80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </p>
 
