@@ -87,6 +87,32 @@ int main() {
 
 ---
 
+---
+
+# 🚀 Projects
+
+<p align="center">
+
+<a href="https://github.com/Akshatj0631/CRUD-Project">
+
+<img src="https://img.shields.io/badge/CRUD%20Project-Full%20Stack%20Web%20App-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+### 🔗 CRUD Project
+A full-stack web application implementing seamless **Create, Read, Update, Delete (CRUD)** operations with a modern UI and efficient backend integration.
+
+👨‍💻 **Collaborators:**  
+- Vaibhaw Sagar  
+- Akshat
+
+📂 **Repository:**  
+https://github.com/Akshatj0631/CRUD-Project
+
+---
+
 # 🚀 Tech Focus
 
 <p align="center">
